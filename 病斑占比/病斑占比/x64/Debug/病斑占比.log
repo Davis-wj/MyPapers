@@ -1,0 +1,49 @@
+﻿  源.cpp
+d:\病斑占比\病斑占比\病斑占比\源.cpp(257): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\病斑占比\病斑占比\病斑占比\源.cpp(259): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+d:\病斑占比\病斑占比\病斑占比\源.cpp(260): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+d:\病斑占比\病斑占比\病斑占比\源.cpp(261): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+d:\病斑占比\病斑占比\病斑占比\源.cpp(262): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+d:\病斑占比\病斑占比\病斑占比\源.cpp(336): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\病斑占比\病斑占比\病斑占比\源.cpp(422): warning C4101: “str”: 未引用的局部变量
+  病斑占比.vcxproj -> D:\病斑占比\病斑占比\x64\Debug\病斑占比.exe
