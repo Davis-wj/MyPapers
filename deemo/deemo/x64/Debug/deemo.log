@@ -1,0 +1,70 @@
+﻿  源.cpp
+e:\testdate\deemo\deemo\源.cpp(116): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\testdate\deemo\deemo\源.cpp(163): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\testdate\deemo\deemo\源.cpp(165): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+e:\testdate\deemo\deemo\源.cpp(166): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+e:\testdate\deemo\deemo\源.cpp(167): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+e:\testdate\deemo\deemo\源.cpp(168): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+e:\testdate\deemo\deemo\源.cpp(524): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\testdate\deemo\deemo\源.cpp(525): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\testdate\deemo\deemo\源.cpp(526): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\testdate\deemo\deemo\源.cpp(527): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\testdate\deemo\deemo\源.cpp(324): warning C4715: “Threshold”: 不是所有的控件路径都返回值
+e:\testdate\deemo\deemo\源.cpp(516): warning C4715: “cmpx”: 不是所有的控件路径都返回值
+  deemo.vcxproj -> E:\TestDate\deemo\x64\Debug\deemo.exe
